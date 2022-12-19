@@ -50,6 +50,7 @@
             <div class="container text-center alight-item-center">
                 Copyright © 2022 by <a target="_blank" href="https://facebook.com/doloi01">DoLoi</a>  
             </div>
+            <h1>Đây là master</h1>
         </div>
     </div>
 </template>
